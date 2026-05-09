@@ -5,7 +5,6 @@ import {
   CheckCircle2, 
   BookMarked, 
   TrendingUp,
-  CalendarDays,
   Plus,
   FileText,
   BrainCircuit

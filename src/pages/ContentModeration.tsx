@@ -1,7 +1,7 @@
 import React from 'react';
 import { 
   ShieldAlert, 
-  Clock, 
+ 
   BrainCircuit, 
   Filter, 
   FileDown, 
@@ -9,10 +9,7 @@ import {
   CheckCircle2, 
   XCircle,
   Plus,
-  ArrowRight,
   Sparkles,
-  Search,
-  ChevronRight,
   FileText,
   Video,
   TrendingUp,

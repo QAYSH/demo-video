@@ -6,7 +6,6 @@ import {
   FileText, 
   HelpCircle,
   CheckCircle2,
-  Zap,
   Lightbulb,
   History,
   TrendingDown

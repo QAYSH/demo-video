@@ -3,15 +3,14 @@ import {
   Users, 
   GraduationCap, 
   Zap, 
-  BookOpen, 
-  TrendingUp, 
+  BookOpen,  
   AlertTriangle, 
   Key, 
   Bell, 
   ChevronDown,
   UserPlus,
-  ShieldAlert,
-  ArrowRight
+  ShieldAlert
+
 } from 'lucide-react';
 
 const AdminDashboard: React.FC = () => {

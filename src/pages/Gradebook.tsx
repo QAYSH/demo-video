@@ -1,10 +1,5 @@
 import React from 'react';
 import { 
-  BarChart3, 
-  AlertTriangle, 
-  CheckCircle2, 
-  Calendar,
-  MoreVertical,
   ChevronLeft,
   ChevronRight,
   TrendingUp,

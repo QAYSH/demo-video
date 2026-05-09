@@ -6,9 +6,7 @@ import {
   CheckCircle2, 
   MoreVertical,
   MessageSquare,
-  BarChart2,
-  Table,
-  Clock
+  BarChart2
 } from 'lucide-react';
 
 const Assignments: React.FC = () => {

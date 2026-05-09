@@ -1,13 +1,10 @@
 import React from 'react';
 import { 
   QrCode, 
-  RefreshCw, 
-  Users, 
+  RefreshCw,  
   FileDown, 
   Plus, 
   ChevronDown, 
-  AlertCircle,
-  CheckCircle2,
   Clock,
   Wifi,
   MapPin,

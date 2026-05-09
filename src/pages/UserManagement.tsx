@@ -3,13 +3,11 @@ import {
   UserPlus, 
   Search, 
   ChevronDown, 
-  MoreVertical, 
   Edit2, 
   Trash2, 
   Sparkles,
   ChevronLeft,
   ChevronRight,
-  Filter,
   Bot
 } from 'lucide-react';
 

@@ -1,24 +1,20 @@
 import React from 'react';
 import { 
-  BarChart3, 
+   
   ChevronDown, 
   Search, 
   Bell, 
   Mail, 
   Send, 
-  BrainCircuit, 
-  Clock, 
+  BrainCircuit,  
   CheckCircle2, 
-  Play, 
-  FileText,
   Activity,
-  TrendingUp,
-  Target
+  TrendingUp
 } from 'lucide-react';
 
 const AdvancedAnalytics: React.FC = () => {
   const days = ['MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT', 'SUN'];
-  const weeks = [1, 2, 3, 4];
+ 
   
   const heatmapData = [
     [2, 4, 1, 3, 5, 2, 1],

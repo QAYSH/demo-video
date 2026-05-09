@@ -8,9 +8,7 @@ import {
   Zap, 
   Clock, 
   Mail, 
-  TrendingUp,
-  AlertTriangle,
-  Play
+  AlertTriangle
 } from 'lucide-react';
 
 const LecturerDashboard: React.FC = () => {
